@@ -1,0 +1,8 @@
+C:\Users\G\Desktop\WORK1\WORK1\obj\Debug\WORK1.csproj.AssemblyReference.cache
+C:\Users\G\Desktop\WORK1\WORK1\obj\Debug\WORK1.csproj.SuggestedBindingRedirects.cache
+C:\Users\G\Desktop\WORK1\WORK1\obj\Debug\WORK1.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\WORK1\WORK1\bin\Debug\WORK1.exe.config
+C:\Users\G\Desktop\WORK1\WORK1\bin\Debug\WORK1.exe
+C:\Users\G\Desktop\WORK1\WORK1\bin\Debug\WORK1.pdb
+C:\Users\G\Desktop\WORK1\WORK1\obj\Debug\WORK1.exe
+C:\Users\G\Desktop\WORK1\WORK1\obj\Debug\WORK1.pdb
