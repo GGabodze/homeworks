@@ -1,0 +1,8 @@
+C:\Users\G\Desktop\WORK5\WORK5\bin\Debug\WORK5.exe.config
+C:\Users\G\Desktop\WORK5\WORK5\bin\Debug\WORK5.exe
+C:\Users\G\Desktop\WORK5\WORK5\bin\Debug\WORK5.pdb
+C:\Users\G\Desktop\WORK5\WORK5\obj\Debug\WORK5.csproj.AssemblyReference.cache
+C:\Users\G\Desktop\WORK5\WORK5\obj\Debug\WORK5.csproj.SuggestedBindingRedirects.cache
+C:\Users\G\Desktop\WORK5\WORK5\obj\Debug\WORK5.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\WORK5\WORK5\obj\Debug\WORK5.exe
+C:\Users\G\Desktop\WORK5\WORK5\obj\Debug\WORK5.pdb
